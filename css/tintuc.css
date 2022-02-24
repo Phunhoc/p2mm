@@ -108,37 +108,22 @@ article{
     text-decoration: none;
     margin: 0 20px 0 300px
 }
-.res {
-   width: 300px;
-   height: 350px;
-   float:left;
-   text-align: left;
-   margin-right: 15px;
-   margin-left: 18px;
-}
-
-.res img{
-    width: 200px;
-    height: 200px;
-    margin-right: 50px;
-    
-}
 .giagoc{
     color: orangered;
 }
 .banner{
     width: min-content;
 }
+.tintuc p{
+    font-size: large;
+}
 .footer {
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  background-color: orange;
-  color: black;
-  text-align: center;
-  font-size: 15px;
-}
-.dbrr1{
-    font-size: 30px;
-}
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: orange;
+    color: black;
+    text-align: center;
+    font-size: 15px;
+  }
